@@ -1,16 +1,24 @@
-### Hi there 👋
+👋 Hola, Mi nonbre es Celena, tengo 23 años y vivo en Cordoba, Argentina 🌍.
 
-<!--
-**celenagonzalez/celenagonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estoy graduada como Full Stack Web Developer, con las siguientes tecnologias: 
 
-Here are some ideas to get you started:
+ 🔨 🔧
+- JavaScript
+- HTML
+- CSS
+- React / Redux
+- Node JS
+- Express
+- PostgreSQL
+- Secuelize
+🔨 🔧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contacto:
+
+📬 celena_sasha@hotmail.com
+💼 www.linkedin.com/in/celena-gonzalez-full-stack-web-developer-javascript-react-redux-htmlcss-express-sql
+📱  +54 351 5099084
+
+
+
+
