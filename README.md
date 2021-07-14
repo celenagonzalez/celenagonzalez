@@ -12,7 +12,7 @@
 - Express
 - PostgreSQL
 - Secuelize
-- 
+
 🔨 🔧
 
 Contacto:
