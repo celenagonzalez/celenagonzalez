@@ -3,6 +3,7 @@
 🎓 Estoy graduada como Full Stack Web Developer, con las siguientes tecnologias: 
 
  🔨 🔧
+ 
 - JavaScript
 - HTML
 - CSS
@@ -11,12 +12,15 @@
 - Express
 - PostgreSQL
 - Secuelize
+- 
 🔨 🔧
 
 Contacto:
 
 📬 celena_sasha@hotmail.com
+
 💼 www.linkedin.com/in/celena-gonzalez-full-stack-web-developer-javascript-react-redux-htmlcss-express-sql
+
 📱  +54 351 5099084
 
 
