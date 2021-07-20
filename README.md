@@ -4,14 +4,16 @@
 
  🔨 🔧
  
-- JavaScript
-- HTML
-- CSS
-- React / Redux
-- Node JS
+######### JavaScript ########
 - Express
 - PostgreSQL
-- Secuelize
+- Sequelize
+- Node JS
+- React / Redux
+- HTML
+- CSS
+
+
 
 🔨 🔧
 
