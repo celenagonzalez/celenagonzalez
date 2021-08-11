@@ -1,4 +1,4 @@
-👋 Hola, Mi nombre es Celena, tengo 23 años y vivo en Cordoba, Argentina 🌍.
+👋 Hola, Mi nombre es Celena, tengo 23 años y vivo en Córdoba, Argentina 🌍.
 
 🎓 Estoy graduada como Full Stack Web Developer, con las siguientes tecnologias: 
 
