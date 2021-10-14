@@ -1,14 +1,13 @@
 👋 Hola, Mi nombre es Celena, tengo 23 años y vivo en Córdoba, Argentina 🌍.
 
-🎓 Estoy graduada como Full Stack Web Developer, con las siguientes tecnologias: 
+🎓 Graduada como Full Stack Web Developer, en las siguientes tecnologias: 
 
  🔨 🔧
  
 ######### JavaScript ########
-- Express
+- Node.js /Express
 - PostgreSQL
 - Sequelize
-- Node JS
 - React / Redux
 - HTML
 - CSS
@@ -19,9 +18,9 @@
 
 Contacto:
 
-📬 celena_sasha@hotmail.com
+📬 celenasasha98@gmail.com 
 
-💼 www.linkedin.com/in/celena-gonzalez-full-stack-web-developer-javascript-react-redux-htmlcss-express-sql
+💼 https://www.linkedin.com/in/full-stack-development-javascript
 
 📱  +54 351 5099084
 
