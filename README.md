@@ -4,7 +4,7 @@
 
  🔨 🔧
  
-######### JavaScript ########
+##JavaScript##
 - Node.js /Express
 - PostgreSQL
 - Sequelize
