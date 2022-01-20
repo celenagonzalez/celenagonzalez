@@ -1,6 +1,6 @@
 👋 Hola, Mi nombre es Celena, tengo 23 años y vivo en Córdoba, Argentina 🌍.
 
-🎓 Graduada como Full Stack Web Developer, en HENRY BOOTCAMP con siguientes tecnologias: 
+🎓 Graduada como Full Stack Web Developer, en HENRY BOOTCAMP con siguientes tecnologías: 
 
  🔨 🔧
  
