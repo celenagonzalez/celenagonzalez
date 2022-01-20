@@ -1,6 +1,6 @@
 👋 Hola, Mi nombre es Celena, tengo 23 años y vivo en Córdoba, Argentina 🌍.
 
-🎓 Graduada como Full Stack Web Developer, en las siguientes tecnologias: 
+🎓 Graduada como Full Stack Web Developer, en HENRY BOOTCAMP con siguientes tecnologias: 
 
  🔨 🔧
  
@@ -20,7 +20,7 @@ Contacto:
 
 📬 celenasasha98@gmail.com 
 
-💼 https://www.linkedin.com/in/full-stack-development-javascript
+💼 linkedin.com/in/dev-cele-javascript
 
 📱  +54 351 5099084
 
